@@ -5,4 +5,4 @@ category: Services
 title: Contributors
 description: |
 ---
-![Regeneron](img/regeneron.png)              ![Databricks](img/databricks.png)
+<img src="img/regeneron.png" width="300px" /><img src="img/databricks.png" width="300px" />
