@@ -2,7 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: It's Fast
+title: Built to scale
 description: |
 ---
-  Yup
+Glow makes genomic data work with Spark SQL, the leading engine for working with large structured
+datasets. It fits natively into the ecosystem of tools that have enabled thousands of
+organizations to scale their workflows to petabytes of data. 

@@ -2,7 +2,14 @@
 layout: default
 img: phones.png
 category: Services
-title: It Glows
+title: Easy to get started
 description: |
 ---
-  Yup
+If you've used Spark before, you don't need to learn any new APIs to get started with Glow. The
+toolkit includes the building blocks that you need to perform the most common analyses right away:
+- Datasources for loading VCF and BGEN files into Spark DataFrames
+- Functions for performing quality control and data manipulation
+- Variant normalization and lift over
+- Regression functions
+- Integration with Spark ML libraries for population stratification
+- Utilities for piping DataFrames through command line tools

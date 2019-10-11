@@ -2,7 +2,11 @@
 layout: default
 img: dog.png
 category: Services
-title: It's Scalable
+title: Flexible
 description: |
 ---
-  Yup
+Glow works with datasets in common file formats like VCF or BGEN as well as common big data
+standards. You can write queries using the native Spark SQL APIs in Python, SQL, R, Java, and Scala.
+The same APIs allow you to bring your genomic data together with other datasets like electronic
+health records, real world evidence, and medical images. Glow makes it easy to parallelize existing
+tools and libraries implemented as command line tools or Pandas functions.

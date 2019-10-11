@@ -7,7 +7,10 @@ title: Glow
 email: proj-glow@googlegroups.com
 author: Glow
 description: > # "Write an awesome description for your new site here. 
-  Project Glow is genomics on Apache Spark made simple.
+  Glow is an open-source toolkit that makes it easy to aggregate genomic data together with rapid algorithms for data
+  preparation, statistical analysis, and machine learning at biobank-scale. The toolkit is natively built on Apache SparkTM,
+  the leading unified engine for big data processing and machine learning, enabling the scale of the cloud for tertiary
+  genomics workflows.
 copyright: 'Copyright &copy; 2019 Project Glow. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
