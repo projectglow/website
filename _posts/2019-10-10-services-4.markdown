@@ -5,4 +5,11 @@ category: Services
 title: Contributors
 description: |
 ---
-<img src="img/regeneron.png" width="300px" /><img src="img/databricks.png" width="300px" />
+<div>
+  <a href="https://www.regeneron.com/genetics-center">
+    <img src="img/regeneron.png" width="300px" />
+  </a>
+  <a href="https://databricks.com">
+    <img src="img/databricks.png" width="300px" />
+  </a>
+</div>

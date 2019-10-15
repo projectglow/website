@@ -164,3 +164,9 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+img.banner-logo {
+  height: auto;
+  width: 500px;
+  max-width: 100%;
+}
