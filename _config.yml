@@ -32,7 +32,7 @@ social:
     url: https://github.com/projectglow/glow
   - icon: book
     title: docs
-    url: https://readthedocs.org
+    url: https://glow.readthedocs.io
   - icon: envelope
     title: forum
     url: https://groups.google.com/forum/#!forum/proj-glow
