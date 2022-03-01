@@ -7,8 +7,9 @@ description: |
 ---
 <div>
   <a href="https://www.regeneron.com/genetics-center">
-    <img src="img/regeneron.png" width="300px" />
+    <img src="img/regeneron.png" width="150px" />
   </a>
+  <br/><br/>
   <a href="https://databricks.com">
     <img src="img/databricks.png" width="300px" />
   </a>
